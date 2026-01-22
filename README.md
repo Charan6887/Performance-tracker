@@ -8,6 +8,8 @@
 - That feedback and rating is used to calculate the score.
 - Based on the score HR makes the decision regarding the employee
 
+## Note: Only HR HAS ACCESS TO CREATE THE EMPLOYEES PROFILE
+
 
 ## Features
 - Add and edit Tasks assigned by manager
