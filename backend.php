@@ -9,7 +9,7 @@ if (
     !isset($_SESSION["last_activity"])
 ) {
     header("Location: login_page.php");
-    exit();
+    exit()?
 }
 
 /* -------------------- SESSION TIMEOUT -------------------- */
