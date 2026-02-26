@@ -36,3 +36,4 @@ Here you can check the official website through the below link 👉 https://perf
 3. move the repository files in htdocs
 4. use the url http://localhost/phpmyadmin/ for database
 5. Use the url http://localhost/filename.php for the website
+6. In this way you can use this for perfomance tracking
